@@ -1,0 +1,21 @@
+body {
+	border: none;
+}
+
+
+#name-container {
+	width: 100%;
+	height: 80px;
+	/*background-color: blue;*/
+}
+
+#side-pane {
+	width: 250px;
+	/*background-color: red;*/
+	height: 500px;
+}
+
+#name {
+	font-size: 40pt;
+}
+
